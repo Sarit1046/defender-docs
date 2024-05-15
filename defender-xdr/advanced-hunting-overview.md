@@ -28,7 +28,7 @@ ms.date: 03/28/2024
 **Applies to:**
 - Microsoft Defender XDR
 
-Advanced hunting is a query-based threat hunting tool that lets you explore up to 30 days of raw data. You can proactively inspect events in your network to locate threat indicators and entities. The flexible access to data enables unconstrained hunting for both known and potential threats.
+Advanced hunting is a query-based threat hunting tool that lets you explore up to 30 days of raw data. You can proactively inspect events in your network to locate threat indicators, entities, and attack activity such as the presence of ransomware. The flexible access to data enables unconstrained hunting for both known and potential threats.
 
 Advanced hunting supports two modes, guided and advanced. Use [guided mode](advanced-hunting-query-builder.md) if you are not yet familiar with Kusto Query Language (KQL) or prefer the convenience of a query builder. Use [advanced mode](advanced-hunting-query-language.md) if you are comfortable using KQL to create queries from scratch. 
 
